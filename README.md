@@ -1,21 +1,13 @@
 # ExMon
 
-**TODO: Add description**
+Projeto baseado no curso do instrutor Rafael Camarda.
 
-## Installation
+## Criação do projeto
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `ex_mon` to your list of dependencies in `mix.exs`:
+Ao criar o projeto utilizando escrevendo ex_mon iremos garantir que o nome será composto por Maiusculas na letra inicial e na letra logo após o underline.
 
-```elixir
-def deps do
-  [
-    {:ex_mon, "~> 0.1.0"}
-  ]
-end
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/ex_mon>.
+mix new ex_mon
 
+```
